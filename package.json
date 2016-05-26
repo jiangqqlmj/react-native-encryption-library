@@ -1,0 +1,22 @@
+{
+  "name": "react-native-encryption-library",
+  "version": "1.0.0",
+  "description": "an encryption-library for react native by www.lcode.org",
+  "main": "index.android.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangqqlmj/react-native-encryption-library.git"
+  },
+  "keywords": [
+    "encryption"
+  ],
+  "author": "jiangqqlmj@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiangqqlmj/react-native-encryption-library/issues"
+  },
+  "homepage": "https://github.com/jiangqqlmj/react-native-encryption-library#readme"
+}
