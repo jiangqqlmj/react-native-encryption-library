@@ -7,7 +7,30 @@
 3 info using node@v5.3.0
 4 info git [ 'status', '--porcelain' ]
 5 verbose stack Error: Git working directory not clean.
-5 verbose stack M README.md
+5 verbose stack M npm-debug.log
+5 verbose stack D react-native-encryption/.gitignore
+5 verbose stack D react-native-encryption/.idea/.name
+5 verbose stack D react-native-encryption/.idea/compiler.xml
+5 verbose stack D react-native-encryption/.idea/copyright/profiles_settings.xml
+5 verbose stack D react-native-encryption/.idea/encodings.xml
+5 verbose stack D react-native-encryption/.idea/gradle.xml
+5 verbose stack D react-native-encryption/.idea/misc.xml
+5 verbose stack D react-native-encryption/.idea/modules.xml
+5 verbose stack D react-native-encryption/.idea/runConfigurations.xml
+5 verbose stack D react-native-encryption/.idea/workspace.xml
+5 verbose stack D react-native-encryption/build.gradle
+5 verbose stack D react-native-encryption/libs/axis.jar
+5 verbose stack D react-native-encryption/local.properties
+5 verbose stack D react-native-encryption/proguard-rules.pro
+5 verbose stack D react-native-encryption/react-native-encryption.iml
+5 verbose stack D react-native-encryption/src/androidTest/java/com/react_native_encryption_library/ApplicationTest.java
+5 verbose stack D react-native-encryption/src/main/AndroidManifest.xml
+5 verbose stack D react-native-encryption/src/main/java/com/chinaztt/encapsulation/EncryptionModule.java
+5 verbose stack D react-native-encryption/src/main/java/com/chinaztt/encapsulation/EncryptionReactPackager.java
+5 verbose stack D react-native-encryption/src/main/java/com/chinaztt/utils/AESTools.java
+5 verbose stack D react-native-encryption/src/main/java/com/chinaztt/utils/MD5Tools.java
+5 verbose stack D react-native-encryption/src/main/res/values/strings.xml
+5 verbose stack D react-native-encryption/src/test/java/com/react_native_encryption_library/ExampleUnitTest.java
 5 verbose stack     at /Users/jiangqq/.nvm/versions/node/v5.3.0/lib/node_modules/npm/lib/version.js:172:21
 5 verbose stack     at ChildProcess.exithandler (child_process.js:204:7)
 5 verbose stack     at emitTwo (events.js:87:13)
@@ -23,7 +46,30 @@
 9 error node v5.3.0
 10 error npm  v3.3.12
 11 error Git working directory not clean.
-11 error M README.md
+11 error M npm-debug.log
+11 error D react-native-encryption/.gitignore
+11 error D react-native-encryption/.idea/.name
+11 error D react-native-encryption/.idea/compiler.xml
+11 error D react-native-encryption/.idea/copyright/profiles_settings.xml
+11 error D react-native-encryption/.idea/encodings.xml
+11 error D react-native-encryption/.idea/gradle.xml
+11 error D react-native-encryption/.idea/misc.xml
+11 error D react-native-encryption/.idea/modules.xml
+11 error D react-native-encryption/.idea/runConfigurations.xml
+11 error D react-native-encryption/.idea/workspace.xml
+11 error D react-native-encryption/build.gradle
+11 error D react-native-encryption/libs/axis.jar
+11 error D react-native-encryption/local.properties
+11 error D react-native-encryption/proguard-rules.pro
+11 error D react-native-encryption/react-native-encryption.iml
+11 error D react-native-encryption/src/androidTest/java/com/react_native_encryption_library/ApplicationTest.java
+11 error D react-native-encryption/src/main/AndroidManifest.xml
+11 error D react-native-encryption/src/main/java/com/chinaztt/encapsulation/EncryptionModule.java
+11 error D react-native-encryption/src/main/java/com/chinaztt/encapsulation/EncryptionReactPackager.java
+11 error D react-native-encryption/src/main/java/com/chinaztt/utils/AESTools.java
+11 error D react-native-encryption/src/main/java/com/chinaztt/utils/MD5Tools.java
+11 error D react-native-encryption/src/main/res/values/strings.xml
+11 error D react-native-encryption/src/test/java/com/react_native_encryption_library/ExampleUnitTest.java
 12 error If you need help, you may report this error at:
 12 error     <https://github.com/npm/npm/issues>
 13 verbose exit [ 1, true ]
