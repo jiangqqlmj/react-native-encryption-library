@@ -1,2 +1,2 @@
-# react-native-encryption-library
-a encryption library with react native.eg.MD5,AES,DES...Android and iOS Platform
+###当前项目封装了常用的加密方式例如:MD5,AES,DES加密,供React Native进行使用,不过当前项目适配Android平台。
+
