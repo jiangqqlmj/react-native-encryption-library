@@ -1,5 +1,5 @@
 ###当前项目封装了常用的加密方式例如:MD5,AES,DES加密,供React Native进行使用,不过当前项目适配Android平台。
-
+<a href="http://www.lcode.org" target="_blank">htt://www.lcode.org</a>主要讲解了React Native开发，由基础环境搭建配置入门，基础，进阶相关讲解。
 ### Installation
 ```bash
 npm install react-native-encryption-library --save
