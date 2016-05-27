@@ -212,4 +212,5 @@ const styles = StyleSheet.create({
 AppRegistry.registerComponent('encryption_library', () => react_native_encryption_library);
 ```
 ###Screenshot
-![][https://github.com/jiangqqlmj/react-native-encryption-library/blob/master/entryption_android.gif]
+![Screenshot](./entryption_android.gif)
+
